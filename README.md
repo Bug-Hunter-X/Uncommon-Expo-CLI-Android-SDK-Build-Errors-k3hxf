@@ -1,0 +1,1 @@
+This repository documents and provides solutions for uncommon errors encountered when building Android projects using the Expo CLI.  The focus is on problems beyond the typical SDK path issues, addressing more obscure configuration problems or conflicts.  The `expoBug.js` file demonstrates a scenario that might lead to the error, and `expoBugSolution.js` shows how to fix it.
